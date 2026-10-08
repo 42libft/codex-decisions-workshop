@@ -1,0 +1,7 @@
+# Local credentials and generated files must stay out of any future repository.
+.env
+.env.*
+!.env.example
+__pycache__/
+*.py[cod]
+work/
